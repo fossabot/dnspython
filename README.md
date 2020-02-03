@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/rthalley/dnspython.svg?branch=master)](https://travis-ci.org/rthalley/dnspython)
 [![PyPI version](https://badge.fury.io/py/dnspython.svg)](https://badge.fury.io/py/dnspython)
 [![PyPI Statistics](https://img.shields.io/pypi/dm/dnspython.svg)](https://pypistats.org/packages/dnspython)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flincoilntgl%2Fdnspython.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flincoilntgl%2Fdnspython?ref=badge_shield)
 
 
 ## INTRODUCTION
@@ -43,3 +44,7 @@ later only support Python 3.4 and later.
 
 The ChangeLog has been discontinued.  Please see the git history for detailed
 change information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flincoilntgl%2Fdnspython.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flincoilntgl%2Fdnspython?ref=badge_large)
